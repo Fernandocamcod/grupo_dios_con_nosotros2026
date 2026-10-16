@@ -1,0 +1,6 @@
+{
+  "name": "Comunión y Luz · Capilla San Francisco",
+  "description": "Comunidad parroquial y reuniones de oración en la Capilla San Francisco, Sangolquí. Fe, fraternidad, visitas pastorales y solidaridad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
